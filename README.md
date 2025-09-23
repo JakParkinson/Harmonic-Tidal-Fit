@@ -1,9 +1,9 @@
 # Harmonic-Tidal-Fit
 
 
-To see code worked through jupyter notebook see project.ipynb
+To see code worked through jupyter notebook see **project.ipynb**
 
-It is also exported to pdf at project.pdf
+It is also exported to pdf at **project.pdf**
 
 
 Seattle Harmonic Tidal Time Series Analysis using NOAA (Python)
