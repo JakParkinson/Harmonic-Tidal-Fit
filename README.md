@@ -1,7 +1,7 @@
 # Harmonic-Tidal-Fit
 
 
-To see code and such see ipnyb,
+To see code worked through jupyter notebook see project.ipynb
 
 It is also exported to pdf at project.pdf
 
